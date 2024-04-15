@@ -1,0 +1,16 @@
+{
+  "name": "Blass",
+  "keywords": "blass",
+  "description": "Allow to use the library to Blass robot for Arduino Nano",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/UlisesGordillo/Blass.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "blass"
+  ]
+}
